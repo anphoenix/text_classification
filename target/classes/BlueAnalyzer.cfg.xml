@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>BlueAnalyzer扩展词典的配置</comment>
+	<!--用户可在此添加扩展字典，词典之间以分号隔开-->
+	<entry key="ext_dic">tnb.dic;</entry>
+</properties>
